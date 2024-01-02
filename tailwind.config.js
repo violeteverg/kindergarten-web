@@ -18,6 +18,9 @@ export default {
         apple: "#AAD59E",
         clearday: "#9AB2D4",
       },
+      backgroundImage: {
+        bgblue: "url('../public/bg1.png')",
+      },
     },
   },
   plugins: [require("flowbite/plugin")],
